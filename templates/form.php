@@ -94,12 +94,6 @@ $page_title = isset($reference) ? 'Editar Referência' : 'Nova Referência';
         <textarea name="annotations[resumo]" id="resumo" style="min-height: 120px;"><?php echo htmlspecialchars($current_annotations['resumo'] ?? ''); ?></textarea>
     </div>
 
-    <div class="form-actions">
-        <a href="index.php" class="btn btn-secondary">Cancelar</a>
-        <button type="submit" class="btn btn-primary">Salvar</button>
-    </div>
-</form>
-
 <div class="form-actions">
     <a href="index.php" class="btn btn-secondary">Cancelar</a>
     <button type="submit" class="btn btn-primary">Salvar</button>

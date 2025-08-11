@@ -1,0 +1,1186 @@
+[
+    {
+        "citekey": "cunha2008_bibliotecas_convincias_digitais",
+        "author": [
+            {
+                "family": "Cunha",
+                "given": "Murilo Bastos da"
+            }
+        ],
+        "title": "Das bibliotecas convencionais às digitais: diferenças e convergências",
+        "container-title": "Perspectivas em Ciência da Informação",
+        "URL": "https:\/\/periodicos.ufmg.br\/index.php\/pci\/article\/view\/23532",
+        "volume": "13",
+        "issue": "1",
+        "page": "2-17",
+        "note": "Acesso em: 31 jul. 2025",
+        "type": "article-journal",
+        "issued": {
+            "date-parts": [
+                [
+                    "2008"
+                ]
+            ]
+        },
+        "id": "ref_6898265c6f90b2.45664845",
+        "timestamp": 1754801756
+    },
+    {
+        "citekey": "morigi2004_tecnologias_sociabilidades",
+        "author": [
+            {
+                "family": "Morigi",
+                "given": "Valdir José"
+            },
+            {
+                "family": "Pavan",
+                "given": "Cleusa"
+            }
+        ],
+        "title": "Tecnologias de informação e comunicação: novas sociabilidades nas bibliotecas universitárias",
+        "container-title": "Ciência da Informação",
+        "URL": "https:\/\/doi.org\/10.1590\/S0100-19652004000100014",
+        "volume": "33",
+        "issue": "1",
+        "page": "117-125",
+        "note": "Acesso em: 31 jul. 2025",
+        "type": "article-journal",
+        "issued": {
+            "date-parts": [
+                [
+                    "2004"
+                ]
+            ]
+        },
+        "id": "ref_6898265c6faaf7.01356247",
+        "timestamp": 1754801756
+    },
+    {
+        "id": "ref_6898265c6fb075.40448121",
+        "timestamp": 1754801756,
+        "citekey": "ibict_koha",
+        "type": "webpage",
+        "author": [
+            {
+                "literal": "Instituto Brasileiro de Informação em Ciência e Tecnologia (IBICT)"
+            }
+        ],
+        "title": "Koha — Instituto Brasileiro de Informação em Ciência e Tecnologia",
+        "URL": "https:\/\/www.gov.br\/ibict\/pt-br\/assuntos\/tecnologias-para-a-informacao\/koha",
+        "issued": {
+            "date-parts": [
+                [
+                    "2025"
+                ]
+            ]
+        },
+        "note": "Acesso em: 31 jul. 2025"
+    },
+    {
+        "citekey": "dglab_sistemas_gestao",
+        "author": [
+            {
+                "family": "DGLAB – Direção-Geral do Livro",
+                "given": "dos Arquivos e das Bibliotecas"
+            }
+        ],
+        "title": "Empresas fornecedoras de sistemas de gestão de bibliotecas",
+        "URL": "http:\/\/bibliotecas.dglab.gov.pt\/pt\/ServProf\/Equipamentos\/Paginas\/Sistemasdegestaodebibliotecas.aspx",
+        "note": "Acesso em: 31 jul. 2025",
+        "type": "webpage",
+        "issued": {
+            "date-parts": [
+                [
+                    "2025"
+                ]
+            ]
+        },
+        "id": "ref_6898265c6fb203.27319081",
+        "timestamp": 1754801756
+    },
+    {
+        "id": "ref_6898265c6fb373.09933984",
+        "timestamp": 1754801756,
+        "citekey": "mindprisma_produto",
+        "type": "webpage",
+        "author": [
+            {
+                "literal": "mindPrisma"
+            }
+        ],
+        "title": "mindPrisma — O produto",
+        "URL": "https:\/\/prisma.mind.pt\/produto",
+        "issued": {
+            "date-parts": [
+                [
+                    "2025"
+                ]
+            ]
+        },
+        "note": "Acesso em: 31 jul. 2025"
+    },
+    {
+        "citekey": "scielo_proposta_integracao",
+        "author": [
+            {
+                "family": "Reis",
+                "given": "Adalberto Faria dos"
+            },
+            {
+                "family": "Costa",
+                "given": "Ivanir da"
+            }
+        ],
+        "title": "Proposta de integração da engenharia de software ...",
+        "container-title": "Production",
+        "URL": "https:\/\/www.scielo.br\/j\/prod\/a\/VXmXkX86mRyjxVWqhZJ7sKm\/?lang=pt",
+        "volume": "15",
+        "issue": "3",
+        "page": "448-455",
+        "note": "Acesso em: 31 jul. 2025",
+        "type": "article-journal",
+        "issued": {
+            "date-parts": [
+                [
+                    "2005"
+                ]
+            ]
+        },
+        "id": "ref_6898265c6fb4c0.70281108",
+        "timestamp": 1754801756
+    },
+    {
+        "id": "ref_6898265c6fb5e7.34554993",
+        "timestamp": 1754801756,
+        "citekey": "usp_biblioteca_digital",
+        "type": "webpage",
+        "author": [
+            {
+                "literal": "ECA-USP"
+            }
+        ],
+        "title": "Pesquisa e Extensão BIBLIOTECA DIGITAL: GESTÃO DA TECNOLOGIA DA INFORMAÇÃO DIGITAL LIBRARY",
+        "URL": "https:\/\/www.eca.usp.br\/acervo\/producao-academica\/002914228.pdf",
+        "issued": {
+            "date-parts": [
+                [
+                    "2025"
+                ]
+            ]
+        },
+        "note": "Acesso em: 31 jul. 2025"
+    },
+    {
+        "id": "ref_6898265c6fb759.23505312",
+        "timestamp": 1754801756,
+        "citekey": "scielo_automacao",
+        "type": "article-journal",
+        "title": "Automação de bibliotecas e centros de documentação: o processo de avaliação e seleção de softwares",
+        "container-title": "SciELO Brasil",
+        "issued": {
+            "date-parts": [
+                [
+                    "2025"
+                ]
+            ]
+        },
+        "url": "https:\/\/www.scielo.br\/j\/ci\/a\/MQng5HLWDQ7YttzzVFRYDZj\/",
+        "note": "Acesso em: 31 jul. 2025"
+    },
+    {
+        "id": "ref_6898265c6fb888.30212667",
+        "timestamp": 1754801756,
+        "citekey": "scielo_formacao_bibliotecario",
+        "type": "article-journal",
+        "author": [
+            {
+                "family": "Madureira",
+                "given": "Helania Oliveira"
+            },
+            {
+                "family": "Vilarinho",
+                "given": "Lúcia Regina Goulart"
+            }
+        ],
+        "title": "A formação do bibliotecário para atuar em bibliotecas digitais: uma ...",
+        "container-title": "Perspectivas em Ciência da Informação",
+        "issued": {
+            "date-parts": [
+                [
+                    "2008"
+                ]
+            ]
+        },
+        "volume": "15",
+        "issue": "3",
+        "page": "87-106",
+        "url": "https:\/\/www.scielo.br\/j\/pci\/a\/6X4w5DMWpmrPsfJsL45wMPJ\/",
+        "note": "Acesso em: 31 jul. 2025"
+    },
+    {
+        "citekey": "scielo_tendencias_servicos",
+        "author": [
+            {
+                "family": "Lira",
+                "given": "Edna Karina da Silva"
+            },
+            {
+                "family": "Jacintho",
+                "given": "Eliana Maria dos Santos"
+            }
+        ],
+        "title": "Tendências de Serviços para Biblioteca e as competências do profissional Bibliotecário: um olhar para o futuro",
+        "container-title": "Transinformação",
+        "URL": "https:\/\/www.scielo.br\/j\/tinf\/a\/ds5crm8syg9VC5bBw4zP9vr\/",
+        "volume": "35",
+        "note": "Acesso em: 31 jul. 2025",
+        "type": "article-journal",
+        "issued": {
+            "date-parts": [
+                [
+                    "2023"
+                ]
+            ]
+        },
+        "id": "ref_6898265c6fbab6.78508840",
+        "timestamp": 1754801756
+    },
+    {
+        "id": "ref_6898265c6fc896.63267989",
+        "timestamp": 1754801756,
+        "citekey": "febab1_interdisciplinaridade",
+        "type": "webpage",
+        "author": [
+            {
+                "literal": "FEBAB"
+            }
+        ],
+        "title": "A Interdisciplinaridade da biblioteconomia a partir da sua ...",
+        "URL": "https:\/\/rbbd.febab.org.br\/rbbd\/article\/download\/554\/412\/0",
+        "issued": {
+            "date-parts": [
+                [
+                    "2025"
+                ]
+            ]
+        },
+        "note": "Acesso em: 31 jul. 2025"
+    },
+    {
+        "citekey": "scielo_sociedade_social",
+        "author": [
+            {
+                "family": "Alencar",
+                "given": "Maria da Glória"
+            },
+            {
+                "family": "Olinto",
+                "given": "Gilda"
+            }
+        ],
+        "title": "BIBLIOTECONOMIA SOCIAL NA FORMAÇÃO DO BIBLIOTECÁRIO: REFLEXÕES E ANÁLISE DE PROJETOS PEDAGÓGICOS NO BRASIL",
+        "container-title": "Perspectivas em Ciência da Informação",
+        "URL": "https:\/\/doi.org\/10.1590\/1981-5344\/43260",
+        "volume": "28",
+        "note": "Acesso em: 31 jul. 2025",
+        "type": "article-journal",
+        "issued": {
+            "date-parts": [
+                [
+                    "2023"
+                ]
+            ]
+        },
+        "id": "ref_6898265c6fcaf1.72788886",
+        "timestamp": 1754801756
+    },
+    {
+        "id": "ref_6898265c6fcc12.54754789",
+        "timestamp": 1754801756,
+        "citekey": "scielo_alfabetizacao_dados",
+        "type": "article-journal",
+        "title": "ALFABETIZAÇÃO DE DADOS NO CONTEXTO DA ...",
+        "container-title": "SciELO Brasil",
+        "issued": {
+            "date-parts": [
+                [
+                    "2025"
+                ]
+            ]
+        },
+        "url": "https:\/\/www.scielo.br\/j\/eb\/a\/DgpckHt9MkdJgFXr4gMfVgB\/",
+        "note": "Acesso em: 31 jul. 2025"
+    },
+    {
+        "id": "ref_6898265c6fcd16.91207932",
+        "timestamp": 1754801756,
+        "citekey": "febab_bibliotecario_era_digital",
+        "type": "webpage",
+        "author": [
+            {
+                "literal": "FEBAB"
+            }
+        ],
+        "title": "O bibliotecário na era digital : adaptação, competências e desafios",
+        "URL": "https:\/\/portal.febab.org.br\/cbbd2024\/article\/view\/3289",
+        "issued": {
+            "date-parts": [
+                [
+                    "2025"
+                ]
+            ]
+        },
+        "note": "Acesso em: 31 jul. 2025"
+    },
+    {
+        "id": "ref_6898265c6fce76.12545404",
+        "timestamp": 1754801756,
+        "citekey": "scielo_competencias_informacao",
+        "type": "article-journal",
+        "title": "COMPETÊNCIAS EM INFORMAÇÃO E DIGITAIS ...",
+        "container-title": "SciELO Brasil",
+        "issued": {
+            "date-parts": [
+                [
+                    "2025"
+                ]
+            ]
+        },
+        "url": "https:\/\/www.scielo.br\/j\/pci\/a\/6nkkbzqkX9DXyVz8KbkZDtB\/",
+        "note": "Acesso em: 31 jul. 2025"
+    },
+    {
+        "id": "ref_6898265c6fcf79.89459629",
+        "timestamp": 1754801756,
+        "citekey": "scielo_gestao_dados_pesquisa",
+        "type": "article-journal",
+        "title": "Bibliotecas acadêmicas e gestão de dados de pesquisa: uma ...",
+        "container-title": "SciELO México",
+        "issued": {
+            "date-parts": [
+                [
+                    "2025"
+                ]
+            ]
+        },
+        "url": "https:\/\/www.scielo.org.mx\/scielo.php?script=sci_arttext&pid=S0187-358X2021000100099",
+        "note": "Acesso em: 31 jul. 2025"
+    },
+    {
+        "id": "ref_6898265c6fd095.25551573",
+        "timestamp": 1754801756,
+        "citekey": "ufsc_formacao_continuada",
+        "type": "article-journal",
+        "title": "Formação continuada do bibliotecário: a importância da ...",
+        "container-title": "ECA-USP",
+        "issued": {
+            "date-parts": [
+                [
+                    "2025"
+                ]
+            ]
+        },
+        "url": "https:\/\/periodicos.ufsc.br\/index.php\/eb\/article\/view\/1518-2924.2016v21n47p124\/0?articlesBySimilarityPage=53",
+        "note": "Acesso em: 31 jul. 2025"
+    },
+    {
+        "id": "ref_6898265c6fd1a6.09014730",
+        "timestamp": 1754801756,
+        "citekey": "dialnet_universitaria_ensin_superior",
+        "type": "article-journal",
+        "title": "BIBLIOTECA UNIVERSITÁRIA E ENSINO SUPERIOR: EM BUSCA DE UM ALINHAMENTO ESTRATÉGICO",
+        "container-title": "Dialnet",
+        "issued": {
+            "date-parts": [
+                [
+                    "2025"
+                ]
+            ]
+        },
+        "url": "https:\/\/dialnet.unirioja.es\/descarga\/articulo\/9655494.pdf",
+        "note": "Acesso em: 31 jul. 2025"
+    },
+    {
+        "id": "ref_6898265c6fd2c9.99133501",
+        "timestamp": 1754801756,
+        "citekey": "scielo_gestao_cientifica_producao",
+        "type": "article-journal",
+        "title": "Gestão ambiental: levantamento da produção científica brasileira em periódicos de Engenharia de Produção",
+        "container-title": "SciELO Brasil",
+        "issued": {
+            "date-parts": [
+                [
+                    "2025"
+                ]
+            ]
+        },
+        "url": "https:\/\/www.scielo.br\/j\/prod\/a\/QwGYTtxhjjpGwZhBm9FBpxH\/",
+        "note": "Acesso em: 31 jul. 2025"
+    },
+    {
+        "citekey": "scielo_metodologias_aplicacao",
+        "author": [
+            {
+                "family": "Behr",
+                "given": "Ariel"
+            },
+            {
+                "family": "Moro",
+                "given": "Eliane Lourdes da Silva"
+            }
+        ],
+        "title": "Gestão da biblioteca escolar: metodologias, enfoques e aplicação de ferramentas de gestão e serviços de biblioteca",
+        "container-title": "Ciência da Informação",
+        "URL": "https:\/\/www.scielo.br\/j\/ci\/a\/7qkmKSkzS5xmqhM3FjMnk5t\/",
+        "volume": "37",
+        "issue": "37",
+        "page": "32-42",
+        "note": "Acesso em: 31 jul. 2025",
+        "type": "article-journal",
+        "issued": {
+            "date-parts": [
+                [
+                    "2008"
+                ]
+            ]
+        },
+        "id": "ref_6898265c6fd516.25204254",
+        "timestamp": 1754801756
+    },
+    {
+        "id": "ref_6898265c6fd855.93678513",
+        "timestamp": 1754801756,
+        "citekey": "scielo_home",
+        "type": "webpage",
+        "title": "SciELO",
+        "URL": "https:\/\/scielo.org\/pt\/",
+        "issued": {
+            "date-parts": [
+                [
+                    "2025"
+                ]
+            ]
+        },
+        "note": "Acesso em: 31 jul. 2025"
+    },
+    {
+        "id": "ref_6898265c6fd945.53615696",
+        "timestamp": 1754801756,
+        "citekey": "4science_orcid",
+        "type": "webpage",
+        "title": "4Science Improves DSpace Capabilities for Institutional Repositories",
+        "author": [
+            {
+                "family": "ORCID",
+                "given": ""
+            }
+        ],
+        "urldate": "2025-07-28",
+        "url": "https:\/\/info.orcid.org\/4science-improves-dspace-capabilities-for-institutional-repositories\/"
+    },
+    {
+        "id": "ref_6898265c6fdb64.39729301",
+        "timestamp": 1754801756,
+        "citekey": "khanacademy_sql",
+        "type": "webpage",
+        "title": "Welcome to SQL (video) | SQL basics",
+        "author": [
+            {
+                "family": "Academy",
+                "given": "Khan"
+            }
+        ],
+        "urldate": "2025-07-28",
+        "url": "https:\/\/www.khanacademy.org\/computing\/computer-programming\/sql\/sql-basics\/v\/welcome-to-sql"
+    },
+    {
+        "id": "ref_6898265c6fdc84.46366583",
+        "timestamp": 1754801756,
+        "citekey": "codecademy_sql",
+        "type": "webpage",
+        "title": "Learn SQL",
+        "author": [
+            {
+                "family": "Codecademy",
+                "given": ""
+            }
+        ],
+        "urldate": "2025-07-28",
+        "url": "https:\/\/www.codecademy.com\/learn\/learn-sql"
+    },
+    {
+        "id": "ref_6898265c6fdd75.68832523",
+        "timestamp": 1754801756,
+        "citekey": "aiven_postgresql",
+        "type": "webpage",
+        "title": "Query a PostgresSQL database 3 ways",
+        "author": [
+            {
+                "family": "Aiven",
+                "given": ""
+            }
+        ],
+        "urldate": "2025-07-28",
+        "url": "https:\/\/aiven.io\/developer\/query-a-postgresql-database"
+    },
+    {
+        "id": "ref_6898265c6fde51.23010572",
+        "timestamp": 1754801756,
+        "citekey": "statology_bash",
+        "type": "webpage",
+        "title": "How to Use Bash Scripting for Database Interaction and Maintenance",
+        "author": [
+            {
+                "family": "Statology",
+                "given": ""
+            }
+        ],
+        "urldate": "2025-07-28",
+        "url": "https:\/\/www.statology.org\/how-to-bash-scripting-database-interaction-maintenance\/"
+    },
+    {
+        "id": "ref_6898265c6fdf55.84781063",
+        "timestamp": 1754801756,
+        "citekey": "dbeaver",
+        "type": "webpage",
+        "title": "DBeaver Community | Free Universal Database Tool",
+        "author": [
+            {
+                "family": "DBeaver",
+                "given": ""
+            }
+        ],
+        "urldate": "2025-07-28",
+        "url": "https:\/\/dbeaver.io\/"
+    },
+    {
+        "id": "ref_6898265c6fe048.58297539",
+        "timestamp": 1754801756,
+        "citekey": "databasesample_sublime",
+        "type": "webpage",
+        "title": "Sublime Text Database Structure and Schema Diagram",
+        "author": [
+            {
+                "family": "DatabaseSample",
+                "given": ""
+            }
+        ],
+        "urldate": "2025-07-28",
+        "url": "https:\/\/databasesample.com\/database\/sublime-text-database"
+    },
+    {
+        "id": "ref_6898265c6fe129.26312099",
+        "timestamp": 1754801756,
+        "citekey": "sublime_db1",
+        "type": "webpage",
+        "title": "DB1: Sublime Text Database Client - Plugin Announcements",
+        "author": [
+            {
+                "family": "Control",
+                "given": "Sublime Package"
+            }
+        ],
+        "urldate": "2025-07-28",
+        "url": "https:\/\/forum.sublimetext.com\/t\/db1-sublime-text-database-client\/15903"
+    },
+    {
+        "id": "ref_6898265c6fe232.65291487",
+        "timestamp": 1754801756,
+        "citekey": "packagecontrol_sqltools",
+        "type": "webpage",
+        "title": "SQLTools - Packages - Package Control - Sublime Package Control",
+        "author": [
+            {
+                "family": "Control",
+                "given": "Sublime Package"
+            }
+        ],
+        "urldate": "2025-07-28",
+        "url": "https:\/\/packagecontrol.io\/packages\/SQLTools"
+    },
+    {
+        "id": "ref_6898265c6fe581.46145223",
+        "timestamp": 1754801756,
+        "citekey": "bytebase_mysql",
+        "type": "webpage",
+        "title": "MySQL security best practices",
+        "author": [
+            {
+                "family": "Bytebase",
+                "given": ""
+            }
+        ],
+        "urldate": "2025-07-28",
+        "url": "https:\/\/www.bytebase.com\/reference\/mysql\/how-to\/mysql-security-best-practices\/"
+    },
+    {
+        "id": "ref_6898265c6fe6a4.45474221",
+        "timestamp": 1754801756,
+        "citekey": "postgresql_about",
+        "type": "webpage",
+        "title": "About",
+        "author": [
+            {
+                "family": "PostgreSQL",
+                "given": ""
+            }
+        ],
+        "urldate": "2025-07-28",
+        "url": "https:\/\/www.postgresql.org\/about\/"
+    },
+    {
+        "id": "ref_6898265c6fe7b0.78457618",
+        "timestamp": 1754801756,
+        "citekey": "geeksforgeeks_sqlite",
+        "type": "webpage",
+        "title": "Introduction to SQLite",
+        "author": [
+            {
+                "family": "GeeksforGeeks",
+                "given": ""
+            }
+        ],
+        "urldate": "2025-07-30",
+        "url": "https:\/\/www.geeksforgeeks.org\/sql\/introduction-to-sqlite\/"
+    },
+    {
+        "id": "ref_6898265c6fe892.02199976",
+        "timestamp": 1754801756,
+        "citekey": "sqlite_whentouse",
+        "type": "webpage",
+        "title": "Appropriate Uses For SQLite",
+        "author": [
+            {
+                "family": "SQLite",
+                "given": ""
+            }
+        ],
+        "urldate": "2025-07-30",
+        "url": "https:\/\/www.sqlite.org\/whentouse.html"
+    },
+    {
+        "id": "ref_6898265c6fe977.60879772",
+        "timestamp": 1754801756,
+        "citekey": "oracle_features",
+        "type": "webpage",
+        "title": "Database Features | Oracle",
+        "author": [
+            {
+                "family": "Oracle",
+                "given": ""
+            }
+        ],
+        "urldate": "2025-07-30",
+        "url": "https:\/\/www.oracle.com\/database\/features\/"
+    },
+    {
+        "id": "ref_6898265c6fea52.08834144",
+        "timestamp": 1754801756,
+        "citekey": "devart_oracle",
+        "type": "webpage",
+        "title": "All about Oracle Database - Definition, Features, Benefits",
+        "author": [
+            {
+                "family": "Devart",
+                "given": ""
+            }
+        ],
+        "urldate": "2025-07-30",
+        "url": "https:\/\/www.devart.com\/dbforge\/oracle\/all-about-oracle-database\/"
+    },
+    {
+        "id": "ref_6898265c6fece1.48667291",
+        "timestamp": 1754801756,
+        "citekey": "simplyblock_sqlserver",
+        "type": "webpage",
+        "title": "Microsoft SQL Server Features & Uses",
+        "author": [
+            {
+                "family": "Simplyblock",
+                "given": ""
+            }
+        ],
+        "urldate": "2025-07-30",
+        "url": "https:\/\/www.simplyblock.io\/glossary\/what-is-microsoft-sql-server\/"
+    },
+    {
+        "id": "ref_6898265c6fedf3.34708501",
+        "timestamp": 1754801756,
+        "citekey": "microsoft_sqlserver",
+        "type": "webpage",
+        "title": "What Is SQL Server? - SQL Server - Learn Microsoft",
+        "author": [
+            {
+                "family": "Microsoft",
+                "given": ""
+            }
+        ],
+        "urldate": "2025-07-30",
+        "url": "https:\/\/learn.microsoft.com\/en-us\/sql\/sql-server\/what-is-sql-server?view=sql-server-ver17"
+    },
+    {
+        "id": "ref_6898265c6fef06.20329537",
+        "timestamp": 1754801756,
+        "citekey": "wikipedia_mariadb",
+        "type": "webpage",
+        "title": "MariaDB - Wikipedia",
+        "author": [
+            {
+                "family": "Wikipedia",
+                "given": ""
+            }
+        ],
+        "urldate": "2025-07-30",
+        "url": "https:\/\/en.wikipedia.org\/wiki\/MariaDB"
+    },
+    {
+        "id": "ref_6898265c6fefb6.90917812",
+        "timestamp": 1754801756,
+        "citekey": "maclusters_mariadb",
+        "type": "webpage",
+        "title": "Introduction to MariaDB Database",
+        "author": [
+            {
+                "family": "MacLusters",
+                "given": ""
+            }
+        ],
+        "urldate": "2025-07-30",
+        "url": "https:\/\/www.maclusters.com\/maria-tutorials\/"
+    },
+    {
+        "id": "ref_6898265c6ff073.30591761",
+        "timestamp": 1754801756,
+        "citekey": "wikipedia_json",
+        "type": "webpage",
+        "title": "JSON - Wikipedia",
+        "author": [
+            {
+                "family": "Wikipedia",
+                "given": ""
+            }
+        ],
+        "urldate": "2025-07-30",
+        "url": "https:\/\/en.wikipedia.org\/wiki\/JSON"
+    },
+    {
+        "id": "ref_6898265c6ff149.37914426",
+        "timestamp": 1754801756,
+        "citekey": "mozilla_json",
+        "type": "webpage",
+        "title": "Working with JSON - Learn web development | MDN",
+        "author": [
+            {
+                "family": "Network",
+                "given": "Mozilla Developer"
+            }
+        ],
+        "urldate": "2025-07-30",
+        "url": "https:\/\/developer.mozilla.org\/en-US\/docs\/Learn_web_development\/Core\/Scripting\/JSON"
+    },
+    {
+        "id": "ref_6898265c6ff236.06868946",
+        "timestamp": 1754801756,
+        "citekey": "aws_xml",
+        "type": "webpage",
+        "title": "What is XML? - Extensible Markup Language (XML) Explained",
+        "author": [
+            {
+                "family": "AWS",
+                "given": ""
+            }
+        ],
+        "urldate": "2025-07-30",
+        "url": "https:\/\/aws.amazon.com\/what-is\/xml\/"
+    },
+    {
+        "id": "ref_6898265c6ff321.16079782",
+        "timestamp": 1754801756,
+        "citekey": "celerdata_xml",
+        "type": "webpage",
+        "title": "XML Format: What It Is and How It Works",
+        "author": [
+            {
+                "family": "CelerData",
+                "given": ""
+            }
+        ],
+        "urldate": "2025-07-30",
+        "url": "https:\/\/celerdata.com\/glossary\/xml-format-what-it-is-and-how-it-works"
+    },
+    {
+        "id": "ref_6898265c6ff410.83409874",
+        "timestamp": 1754801756,
+        "citekey": "lenovo_csv",
+        "type": "webpage",
+        "title": "Exploring Why CSV is a Popular File Format and How to Manage it",
+        "author": [
+            {
+                "family": "Lenovo",
+                "given": ""
+            }
+        ],
+        "urldate": "2025-07-30",
+        "url": "https:\/\/www.lenovo.com\/us\/en\/glossary\/csv\/"
+    },
+    {
+        "id": "ref_6898265c6ff500.39686787",
+        "timestamp": 1754801756,
+        "citekey": "wikipedia_csv",
+        "type": "webpage",
+        "title": "Comma-separated values - Wikipedia",
+        "author": [
+            {
+                "family": "Wikipedia",
+                "given": ""
+            }
+        ],
+        "urldate": "2025-07-30",
+        "url": "https:\/\/en.wikipedia.org\/wiki\/Comma-separated_values"
+    },
+    {
+        "id": "ref_6898265c6ff5d0.26547733",
+        "timestamp": 1754801756,
+        "citekey": "lincs_linkeddata",
+        "type": "webpage",
+        "title": "Linked Data - LINCS",
+        "author": [
+            {
+                "family": "LINCS",
+                "given": ""
+            }
+        ],
+        "urldate": "2025-07-30",
+        "url": "https:\/\/lincsproject.ca\/docs\/learn-lod\/linked-open-data-basics\/concepts-linked-data"
+    },
+    {
+        "id": "ref_6898265c6ff6b0.87597579",
+        "timestamp": 1754801756,
+        "citekey": "latex_project",
+        "type": "webpage",
+        "title": "LaTeX - A document preparation system",
+        "author": [
+            {
+                "family": "Project",
+                "given": "The LaTeX"
+            }
+        ],
+        "urldate": "2025-07-30",
+        "url": "https:\/\/www.latex-project.org\/"
+    },
+    {
+        "id": "ref_6898265c6ff7a8.41639007",
+        "timestamp": 1754801756,
+        "citekey": "latex_intro",
+        "type": "webpage",
+        "title": "Introduction to LaTeX",
+        "author": [
+            {
+                "family": "Project",
+                "given": "The LaTeX"
+            }
+        ],
+        "urldate": "2025-07-30",
+        "url": "https:\/\/www.latex-project.org\/about\/"
+    },
+    {
+        "id": "ref_6898265c6ff8e6.47349096",
+        "timestamp": 1754801756,
+        "citekey": "scribd_isis_tutorial",
+        "type": "webpage",
+        "title": "Cds\/Isis: Information Storage Retrieval System | PDF | Data Management | Databases",
+        "author": [
+            {
+                "family": "Scribd",
+                "given": ""
+            }
+        ],
+        "urldate": "2025-07-28",
+        "url": "https:\/\/www.scribd.com\/presentation\/36695931\/Isis-Tutorial2"
+    },
+    {
+        "id": "ref_6898265c6ff9f9.57078086",
+        "timestamp": 1754801756,
+        "citekey": "wikipedia_cds_isis",
+        "type": "webpage",
+        "title": "CDS ISIS - Wikipedia",
+        "author": [
+            {
+                "family": "Wikipedia",
+                "given": ""
+            }
+        ],
+        "urldate": "2025-07-28",
+        "url": "https:\/\/en.wikipedia.org\/wiki\/CDS_ISIS"
+    },
+    {
+        "id": "ref_6898265c6ffad0.11058522",
+        "timestamp": 1754801756,
+        "citekey": "winisis_manual",
+        "type": "webpage",
+        "title": "Reference Manual",
+        "author": [
+            {
+                "family": "WinISIS",
+                "given": ""
+            }
+        ],
+        "urldate": "2025-07-28",
+        "url": "http:\/\/utbapxubute.free.bg\/WINISIS15rev.pdf"
+    },
+    {
+        "id": "ref_6898265c6ffbb5.94379646",
+        "timestamp": 1754801756,
+        "citekey": "abcd_community",
+        "type": "webpage",
+        "title": "Index files – ABCD Global",
+        "author": [
+            {
+                "family": "Global",
+                "given": "ABCD"
+            }
+        ],
+        "urldate": "2025-07-28",
+        "url": "https:\/\/abcd-community.org\/docs\/index-files\/"
+    },
+    {
+        "id": "ref_6898265c6ffca4.69992888",
+        "timestamp": 1754801756,
+        "citekey": "dspace_wikipedia",
+        "type": "webpage",
+        "title": "DSpace - Wikipedia",
+        "author": [
+            {
+                "family": "Wikipedia",
+                "given": ""
+            }
+        ],
+        "urldate": "2025-07-28",
+        "url": "https:\/\/en.wikipedia.org\/wiki\/DSpace"
+    },
+    {
+        "id": "ref_6898265c6ffd70.92462158",
+        "timestamp": 1754801756,
+        "citekey": "dspace_scribd",
+        "type": "webpage",
+        "title": "Dspace 63 With Oai PMH 20 Installation | PDF - Scribd",
+        "author": [
+            {
+                "family": "Scribd",
+                "given": ""
+            }
+        ],
+        "urldate": "2025-07-28",
+        "url": "https:\/\/www.scribd.com\/document\/770254699\/dspace-63-with-oai-pmh-20-installation"
+    },
+    {
+        "id": "ref_6898265c70cbc5.00903110",
+        "timestamp": 1754801756,
+        "citekey": "cisa_backup",
+        "type": "webpage",
+        "title": "Data Backup Options",
+        "author": [
+            {
+                "family": "CISA",
+                "given": ""
+            }
+        ],
+        "urldate": "2025-07-28",
+        "url": "https:\/\/www.cisa.gov\/sites\/default\/files\/publications\/data_backup_options.pdf"
+    },
+    {
+        "id": "ref_6898265c70d039.67106685",
+        "timestamp": 1754801756,
+        "citekey": "hevo_postgres_csv",
+        "type": "webpage",
+        "title": "Postgres Export to CSV: Best Ways & Steps to Export Data | Hevo",
+        "author": [
+            {
+                "family": "Data",
+                "given": "Hevo"
+            }
+        ],
+        "urldate": "2025-07-28",
+        "url": "https:\/\/hevodata.com\/learn\/postgres-export-to-csv\/"
+    },
+    {
+        "id": "ref_6898265c70d254.74577138",
+        "timestamp": 1754801756,
+        "citekey": "n8n_postgres_csv",
+        "type": "webpage",
+        "title": "How to export data from PostgreSQL to CSV – n8n Blog",
+        "author": [
+            {
+                "family": "n8n",
+                "given": ""
+            }
+        ],
+        "urldate": "2025-07-28",
+        "url": "https:\/\/blog.n8n.io\/postgres-export-to-csv\/"
+    },
+    {
+        "id": "ref_6898265c70d7d6.52892299",
+        "timestamp": 1754801756,
+        "citekey": "reddit_postgres",
+        "type": "webpage",
+        "title": "A Practical PostgreSQL Security Checklist : r\/PostgreSQL",
+        "author": [
+            {
+                "family": "Reddit",
+                "given": ""
+            }
+        ],
+        "urldate": "2025-07-28",
+        "url": "https:\/\/www.reddit.com\/r\/PostgreSQL\/comments\/1j8sy0b\/a_practical_postgresql_security_checklist\/"
+    },
+    {
+        "id": "ref_6898265c70d907.04918400",
+        "timestamp": 1754801756,
+        "citekey": "jetpack_wordpress",
+        "type": "webpage",
+        "title": "WordPress Database: How to Access, Edit, and Secure Your DB",
+        "author": [
+            {
+                "family": "Jetpack",
+                "given": ""
+            }
+        ],
+        "urldate": "2025-07-28",
+        "url": "https:\/\/jetpack.com\/resources\/wordpress-database\/"
+    },
+    {
+        "id": "ref_6898265c70d9f8.43606123",
+        "timestamp": 1754801756,
+        "citekey": "dspace_docs",
+        "type": "webpage",
+        "title": "DSpace 6.x Documentation",
+        "author": [
+            {
+                "family": "DSpace",
+                "given": ""
+            }
+        ],
+        "urldate": "2025-07-28",
+        "url": "https:\/\/repositoriodigital.organojudicial.gob.pa\/bitstream\/handle\/001\/188\/DSpace-Manual.pdf?sequence=1"
+    },
+    {
+        "id": "ref_6898265c70daf1.32669614",
+        "timestamp": 1754801756,
+        "citekey": "citeseerx_isis",
+        "type": "webpage",
+        "title": "The CDS\/ISIS for Windows Handbook",
+        "author": [
+            {
+                "family": "CiteSeerX",
+                "given": ""
+            }
+        ],
+        "urldate": "2025-07-28",
+        "url": "https:\/\/citeseerx.ist.psu.edu\/document?repid=rep1&type=pdf&doi=4b82b539574aff7a1579519344cc24a1676718d6"
+    },
+    {
+        "id": "ref_6898265c70dbc1.27120270",
+        "timestamp": 1754801756,
+        "citekey": "iassist_dspace",
+        "type": "webpage",
+        "title": "Interoperability Between Institutional and Data Repositories: a Pilot Project at MIT - IASSIST Quarterly",
+        "author": [
+            {
+                "family": "IASSIST",
+                "given": ""
+            }
+        ],
+        "urldate": "2025-07-28",
+        "url": "https:\/\/www.iassistquarterly.com\/index.php\/iassist\/article\/view\/448\/440"
+    },
+    {
+        "id": "ref_6898265c70dcc6.42830100",
+        "timestamp": 1754801756,
+        "citekey": "dspace_home",
+        "type": "webpage",
+        "title": "DSpace Home",
+        "author": [
+            {
+                "family": "DSpace",
+                "given": ""
+            }
+        ],
+        "urldate": "2025-07-28",
+        "url": "https:\/\/dspace.org\/"
+    },
+    {
+        "id": "ref_6898265c70dda7.60801620",
+        "timestamp": 1754801756,
+        "citekey": "sarao_data",
+        "type": "webpage",
+        "title": "SARAO Science Repository: Sustainable Use of MeerKAT Data",
+        "author": [
+            {
+                "family": "SARAO",
+                "given": ""
+            }
+        ],
+        "urldate": "2025-07-28",
+        "url": "https:\/\/accelconf.web.cern.ch\/icalepcs2023\/papers\/thpdp048.pdf"
+    },
+    {
+        "id": "ref_6898265c70dea7.29615674",
+        "timestamp": 1754801756,
+        "citekey": "ibm_sql_examples",
+        "type": "webpage",
+        "title": "SQL report examples - IBM",
+        "author": [
+            {
+                "family": "IBM",
+                "given": ""
+            }
+        ],
+        "urldate": "2025-07-28",
+        "url": "https:\/\/www.ibm.com\/docs\/en\/workload-automation\/10.2.2?topic=reports-sql-report-examples"
+    },
+    {
+        "id": "ref_6898265c70df79.84905825",
+        "timestamp": 1754801756,
+        "citekey": "galaxy_sql_reports",
+        "type": "webpage",
+        "title": "Sql reports: Definition & Examples - Galaxy",
+        "author": [
+            {
+                "family": "Galaxy",
+                "given": ""
+            }
+        ],
+        "urldate": "2025-07-28",
+        "url": "https:\/\/www.getgalaxy.io\/learn\/glossary\/sql-reports"
+    },
+    {
+        "id": "ref_6898265c70e057.02552056",
+        "timestamp": 1754801756,
+        "citekey": "ezyvet_sql_queries",
+        "type": "webpage",
+        "title": "Example SQL queries for reports - ezyVet Knowledge Center",
+        "author": [
+            {
+                "family": "ezyVet",
+                "given": ""
+            }
+        ],
+        "urldate": "2025-07-28",
+        "url": "https:\/\/docs.ezyvet.com\/en\/browse-documentation\/ezyvet-data-lake\/example-sql-queries-for-reports"
+    },
+    {
+        "id": "ref_6898265c70e137.38952253",
+        "timestamp": 1754801756,
+        "citekey": "cyber_domain_security",
+        "type": "webpage",
+        "title": "Cross domain security primer (ITSB-120)",
+        "author": [
+            {
+                "family": "Cyber.gc.ca",
+                "given": ""
+            }
+        ],
+        "urldate": "2025-07-28",
+        "url": "https:\/\/www.cyber.gc.ca\/en\/guidance\/cross-domain-security-primer-itsb-120"
+    }
+]

@@ -4,14 +4,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gerenciador de Referências</title>
+    <title>Gerenciador de Referências LibRogr</title>
     <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
     <div class="container-fluid">
         <header>
-            <h1><a href="index.php">Gerenciador de Referências PHP</a></h1>
+            <h1><a href="index.php">Gerenciador de Referências LibRogr</a></h1>
             <style type="text/css">
                 <?php echo $csl_styles_css; ?>
             </style>

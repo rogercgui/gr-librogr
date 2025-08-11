@@ -1,0 +1,5 @@
+{
+    "require": {
+        "seboettg/citeproc-php": "^2.6"
+    }
+}

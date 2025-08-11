@@ -70,8 +70,6 @@ Siga estes passos para configurar o projeto em seu ambiente local:
 
    * Remova o ponto e vírgula (`;`) do início da linha para ativá-la. A linha deve ficar assim:
 
-     Ini, TOML
-
      ```
      extension=intl
      ```

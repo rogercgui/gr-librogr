@@ -2,7 +2,8 @@
 
 Um sistema web leve para gerenciar, formatar e exportar referências bibliográficas. Construído com PHP puro e armazenamento em arquivos JSON, é uma solução portátil e fácil de instalar para pesquisadores, estudantes e acadêmicos.
 
-_(Sugestão: Tire um screenshot da sua tela e substitua o link acima)_
+<img width="1348" height="766" alt="image" src="https://github.com/user-attachments/assets/9988eae0-0214-4b74-b4ef-03bbb54f41b9" />
+
 
 ## ✨ Funcionalidades
 
@@ -45,17 +46,17 @@ Siga estes passos para configurar o projeto em seu ambiente local:
    Bash
 
    ```
-   git clone [URL_DO_SEU_REPOSITORIO] gerenciador
+   git clone https://github.com/rogercgui/gr-librogr gr-librogr
    ```
 
-   Ou simplesmente baixe o ZIP e extraia a pasta `gerenciador` para o seu diretório web.
+   Ou simplesmente baixe o ZIP e extraia a pasta `gr-librogr` para o seu diretório web.
 
 2. **Instalar Dependências** Navegue até a pasta do projeto no terminal e instale a biblioteca de citação com o Composer:
 
    Bash
 
    ```
-   cd grlibrogr
+   cd gr-librogr
    composer install
    ```
 
@@ -93,7 +94,7 @@ Siga estes passos para configurar o projeto em seu ambiente local:
 
    * Abra o arquivo `config.php` e edite a constante `DEFAULT_CSL_STYLE` para definir o seu estilo padrão (usando o nome do arquivo, ex: `'abnt-numero.csl'`).
 
-7. **Acessar** Abra seu navegador e acesse o projeto (ex: `http://localhost/gerenciador` ou `http://localhost:8080/gerenciador`).
+7. **Acessar** Abra seu navegador e acesse o projeto (ex: `http://localhost/gr-librogr` ou `http://localhost:8080/gr-librogr`).
 
 ## 📋 Como Usar
 
